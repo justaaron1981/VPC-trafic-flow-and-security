@@ -5,7 +5,7 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-security)
 
 **Author:** Aaron  
-**Email:** longshotbeats@gmail.com
+**Email:** Justaaron1981@yahoo.com
 
 ---
 
